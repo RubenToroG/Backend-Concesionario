@@ -1,0 +1,24 @@
+{
+  "name": "api-concesionario",
+  "version": "1.0.0",
+  "description": "Backend project Concesionario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RubenToroG/Backend-Concesionario.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "rest-api"
+  ],
+  "author": "Ruben Toro <rubensdt01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubenToroG/Backend-Concesionario/issues"
+  },
+  "homepage": "https://github.com/RubenToroG/Backend-Concesionario#readme"
+}
